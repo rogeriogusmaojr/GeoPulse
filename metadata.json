@@ -1,0 +1,6 @@
+{
+  "name": "GeoPulse - Geomarketing & Monitoring",
+  "description": "Uma solução completa de geomarketing para monitoramento de geolocalização em tempo real, gestão de clientes e análises estratégicas.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
